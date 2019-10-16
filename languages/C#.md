@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C#
-permalink: /c#/
+permalink: /chash/
 ---
 
 ## Alphabetical index of projects in C35:

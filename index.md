@@ -40,6 +40,8 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [Swift](/swift)
  - [TypeScript](/typescript)
 
+ {: class="mylist"}
+
 ## Want to add an interesting project?
 
 - Simply [fork](https://github.com/lk-geimfari/awesomo/) this repository.

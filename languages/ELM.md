@@ -1,3 +1,8 @@
+---
+layout: page
+title: ELM
+permalink: /elm/
+---
 ## Elm
 
 [**http**](https://github.com/elm/http) - Make HTTP requests in Elm. Talk to servers.

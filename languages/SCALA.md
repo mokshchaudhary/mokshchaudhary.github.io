@@ -1,3 +1,8 @@
+---
+layout: page
+title: Scala
+permalink: /scala/
+---
 ## Scala
 
 [**GitBucket**](https://github.com/gitbucket/gitbucket)  —  a Git platform powered by Scala with easy installation, high extensibility & github API compatibility.

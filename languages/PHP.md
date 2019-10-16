@@ -1,3 +1,9 @@
+---
+layout: page
+title: PHP
+permalink: /php/
+---
+
 ## PHP
 
 [**Guzzle**](https://github.com/guzzle/guzzle) is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services.

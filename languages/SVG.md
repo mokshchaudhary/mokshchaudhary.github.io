@@ -1,3 +1,8 @@
+---
+layout: page
+title: SVG
+permalink: /svg/
+---
 ## Alphabetical index of projects in SVG
 
 |       |       |       |       |       |       |       |

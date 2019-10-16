@@ -1,3 +1,8 @@
+---
+layout: page
+title: Javascript
+permalink: /javascript/
+---
 ## Alphabetical index of projects in Javascript:
 
 |       |       |       |       |       |       |       |

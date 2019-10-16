@@ -1,3 +1,8 @@
+---
+layout: page
+title: Java
+permalink: /java/
+---
 ## Alphabetical index of projects in Java:
 
 |       |       |       |       |       |       |       |

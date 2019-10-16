@@ -1,3 +1,8 @@
+---
+layout: page
+title: Elixir
+permalink: /elixir/
+---
 ## Alphabetical index of projects in Elixir
 
 |       |       |       |       |       |       |       |

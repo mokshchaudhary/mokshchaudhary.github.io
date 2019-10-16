@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lua
+permalink: /lua/
+---
+
 ## Alphabetical index of projects in Lua:
 
 |       |       |       |       |       |       |       |

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Swift
+permalink: /swift/
+---
 ## Alphabetical index of projects in Swift:
 
 |       |       |       |       |       |       |       |

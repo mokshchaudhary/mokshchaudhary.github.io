@@ -1,3 +1,9 @@
+---
+layout: page
+title: OCAML
+permalink: /ocaml/
+---
+
 ## Alphabetical index of projects in OCAML:
 
 |       |       |       |       |       |       |       |

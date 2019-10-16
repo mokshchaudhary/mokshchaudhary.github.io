@@ -1,3 +1,9 @@
+---
+layout: page
+title: Ruby
+permalink: /ruby/
+---
+
 ## Alphabetical index of projects in Ruby:
 
 |       |       |       |       |       |       |       |

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Typescript
+permalink: /typescript/
+---
 ## Alphabetical index of projects in TypeScript:
 
 |       |       |       |       |       |       |       |

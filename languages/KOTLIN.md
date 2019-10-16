@@ -1,3 +1,8 @@
+---
+layout: page
+title: Kotlin
+permalink: /kotlin/
+---
 ## Alphabetical index of projects in Kotlin:
 
 |       |       |       |       |       |       |       |

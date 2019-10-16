@@ -1,3 +1,9 @@
+---
+layout: page
+title: Rust
+permalink: /rust/
+---
+
 ## Alphabetical index of projects in Rust:
 
 |         |         |         |         |         |         |         |

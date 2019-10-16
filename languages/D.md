@@ -1,3 +1,8 @@
+---
+layout: page
+title: D
+permalink: /D/
+---
 ## Alphabetical index of projects in Python:
 
 |       |       |       |       |       |       |       |

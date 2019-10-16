@@ -1,3 +1,8 @@
+---
+layout: page
+title: HASKELL
+permalink: /HASKELL/
+---
 ## Alphabetical index of projects in Haskell :
 
 |       |       |       |       |       |       |       |

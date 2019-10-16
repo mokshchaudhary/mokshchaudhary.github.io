@@ -1,3 +1,8 @@
+---
+layout: page
+title: CSS
+permalink: /css/
+---
 ## Alphabetical index of projects in CSS
 
 |       |       |       |       |       |       |       |

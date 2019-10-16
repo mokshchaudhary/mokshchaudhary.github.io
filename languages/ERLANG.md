@@ -1,3 +1,14 @@
+---
+layout: page
+title: ERLANG
+permalink: /erlang/
+---
+---
+layout: page
+title: 
+permalink: 
+---
+
 ## Alphabetical index of projects in Erlang:
 
 |       |       |       |       |       |       |       |

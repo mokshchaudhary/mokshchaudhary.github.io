@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C#
-permalink: /clang/
+permalink: /c#/
 ---
 
 ## Alphabetical index of projects in C35:

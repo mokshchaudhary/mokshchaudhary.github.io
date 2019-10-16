@@ -9,7 +9,7 @@ layout: default
 </p>
 
 If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source_software) and are considering to join the community of Open Source developers, then here you might find a project that will suit you.
-<div class="lol">
+
  - [C](/c)
  - [C#](/chash)
  - [C++](/cplus)
@@ -39,8 +39,6 @@ If you are interested in [Open Source](https://en.wikipedia.org/wiki/Open-source
  - [SVG](/svg)
  - [Swift](/swift)
  - [TypeScript](/typescript)
-</div>
-
 
 ## Want to add an interesting project?
 

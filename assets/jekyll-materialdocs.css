@@ -13,6 +13,7 @@
   line-height: 32px;
   margin-top: 32px;
   margin-bottom: 32px;
+  font-size: 5vh;
 }
 .content{
   max-width: 800px;
@@ -29,6 +30,15 @@
 .is-active{
   background-color: #e0e0e0;
 }
+
+.mdl-layout__header-row{
+  min-height: 10vh !important;
+}
+
+.mdl-navigation__link{
+  font-size: 3vh !important;
+}
+
 .content img, .content video {
   max-width: 100%;
   padding: 10px;

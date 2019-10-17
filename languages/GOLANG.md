@@ -109,13 +109,11 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 <p align="center"><img src="https://github.com/gernest/utron/raw/master/utron.png"></p>
 
-## <div align="center">Caddy</div>
 
 [**Caddy**](https://github.com/mholt/caddy) — a general-purpose web server for Windows, Mac, Linux, BSD, and Android. It is a capable but easier alternative to other popular web servers.
 
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/1128849/25305033/12916fce-2731-11e7-86ec-580d4d31cb16.png"></p>
 
-## <div align="center">gitea</div>
 
 [**gitea**](https://gitea.io/en-US/) — a community managed [fork of Gogs](https://github.com/go-gitea/gitea), delivering a lightweight code hosting solution written in Go and published under the MIT license.
 

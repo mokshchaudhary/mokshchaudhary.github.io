@@ -96,7 +96,7 @@ Nanobox creates isolated development environments (using Docker) which are stage
 
 [**Gin**](https://github.com/gin-gonic/gin) — is a web framework written in Go. It features a martini-like API with much better performance, up to 40 times faster thanks to httprouter. If you need performance and good productivity, you will love Gin.
 
-<p align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="512px"></p>
 
 
 

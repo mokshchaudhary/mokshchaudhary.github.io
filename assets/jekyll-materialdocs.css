@@ -31,12 +31,8 @@
   background-color: #e0e0e0;
 }
 
-.mdl-layout__header-row{
-  min-height: 10vh !important;
-}
-
 .mdl-navigation__link{
-  font-size: 3vh !important;
+  font-size: 18px !important;
 }
 
 .content img, .content video {
